@@ -1,3 +1,4 @@
+![kmp music_app](https://github.com/mohamad-abuzaid/KMP-Music/assets/935514/8ce980b0-d54d-433f-a41c-816b784cd0c7)
 
 # KMP-Music-Player
 
