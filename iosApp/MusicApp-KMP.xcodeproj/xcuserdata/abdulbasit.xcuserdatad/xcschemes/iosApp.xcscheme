@@ -34,7 +34,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/abdulbasit/AndroidStudioProjects/MusicAppKMP"
+      customWorkingDirectory = "/Users/mabuzaid/AndroidStudioProjects/MusicAppKMP"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"

@@ -1,4 +1,4 @@
-<img src="https://github.com/mohamad-abuzaid/KMP-Music/assets/935514/8ce980b0-d54d-433f-a41c-816b784cd0c7" width="250">
+<img src="https://github.com/mohamad-abuzaid/KMP-Music/assets/935514/8ce980b0-d54d-433f-a41c-816b784cd0c7" width="250" alt="KMP Music Player">
 
 # KMP-Music-Player
 

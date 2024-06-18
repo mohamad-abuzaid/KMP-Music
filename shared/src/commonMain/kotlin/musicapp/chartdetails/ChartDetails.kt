@@ -53,7 +53,7 @@ import org.jetbrains.compose.resources.stringResource
 
 
 /**
- * Created by "Mohamad Abuzaid" on 18/06/2024.
+ * Created by "Mohamad Abuzaid" on 18/06/2023.
  * Email: m.abuzaid.ali@gmail.com
  */
 @OptIn(ExperimentalResourceApi::class)

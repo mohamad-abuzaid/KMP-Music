@@ -16,7 +16,7 @@ import musicapp.decompose.MusicRoot
 import musicapp.playerview.PlayerView
 
 /**
- * Created by "Mohamad Abuzaid" on 23/06/2024.
+ * Created by "Mohamad Abuzaid" on 23/06/2023.
  * Email: m.abuzaid.ali@gmail.com
  */
 @Composable

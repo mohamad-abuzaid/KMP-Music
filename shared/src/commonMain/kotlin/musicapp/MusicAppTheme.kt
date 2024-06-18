@@ -14,7 +14,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 /**
- * Created by "Mohamad Abuzaid" on 23/06/2024.
+ * Created by "Mohamad Abuzaid" on 23/06/2023.
  * Email: m.abuzaid.ali@gmail.com
  */
 @Composable

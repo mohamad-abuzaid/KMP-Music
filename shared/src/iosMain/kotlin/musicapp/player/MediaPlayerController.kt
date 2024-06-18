@@ -28,7 +28,7 @@ import platform.darwin.NSEC_PER_SEC
 import kotlin.experimental.ExperimentalNativeApi
 
 /**
- * Created by "Mohamad Abuzaid" on 23/06/2024.
+ * Created by "Mohamad Abuzaid" on 23/06/2023.
  * Email: m.abuzaid.ali@gmail.com
  */
 @OptIn(ExperimentalForeignApi::class)

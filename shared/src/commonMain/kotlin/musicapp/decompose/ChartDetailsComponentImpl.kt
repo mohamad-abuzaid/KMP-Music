@@ -8,7 +8,7 @@ import kotlinx.coroutines.flow.SharedFlow
 
 
 /**
- * Created by "Mohamad Abuzaid" on 20/06/2024.
+ * Created by "Mohamad Abuzaid" on 20/06/2023.
  * Email: m.abuzaid.ali@gmail.com
  */
 class ChartDetailsComponentImpl(
