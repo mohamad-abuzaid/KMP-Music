@@ -1,4 +1,4 @@
-![kmp music_app](https://github.com/mohamad-abuzaid/KMP-Music/assets/935514/8ce980b0-d54d-433f-a41c-816b784cd0c7)
+<img src="https://github.com/mohamad-abuzaid/KMP-Music/assets/935514/8ce980b0-d54d-433f-a41c-816b784cd0c7" width="250">
 
 # KMP-Music-Player
 
@@ -8,17 +8,10 @@ This is a music player app built using Compose Multiplatform UI that works on An
 platforms. It uses the spotify api for fetching the top 50 charts and getting the trending albums. The Google login is still in pending
 and for now, you need to add the spotify token manually.
 
+
 **Supports:** Android 📱, iOS 📱, Web 🌐, Desktop 🖥️
 
 ## Features ✨
-
-- Kotlin
-- Compose Multiplatform UI
-- AVKit Media Player
-- VLC media player
-- HTML media player
-- [Compose Image Loader](https://github.com/qdsfdhvh/compose-imageloader)
-- Decompose
 
 - **Compose Multiplatform (CMP)**
 - **Kotlin Multiplatform (KMP)**
